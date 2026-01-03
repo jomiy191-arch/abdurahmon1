@@ -72,7 +72,7 @@ body{
 
 
 .header-link:hover {
-  color: #000; 
+  color: #fb6060ff; 
 }
 
 .header-link:hover::after {
