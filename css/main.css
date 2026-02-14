@@ -1445,7 +1445,7 @@ body{
 
 .ringo-btn:hover {
     transform: translateY(-3px) scale(1.05);
-    box-shadow: 0 6px 14px rgba(188, 37, 37, 0.2);
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
 }
 
 .ringo-icon {
