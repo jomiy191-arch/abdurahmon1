@@ -447,7 +447,7 @@ body{
 
 .noise-text {
     margin-top: 20px;
-    color: #ad3d3d;
+    color: #fff;
     font-size: 18px;
     line-height: 1.4;
 }
@@ -482,7 +482,7 @@ body{
 
 .main {
   padding: 80px 20px;
-  background:rgb(59, 59, 59);
+  background:blueviolet;
   color: #282B22;
 }
 
