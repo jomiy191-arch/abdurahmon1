@@ -388,7 +388,7 @@ body{
     background: #d74242;
     width: 200px;
     padding: 20px;
-    box-shadow: 0 4px 12px rgba(252, 37, 37, 0.15);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
     border-radius: 8px;
     z-index: 100;
   }
